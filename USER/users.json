@@ -1,0 +1,32 @@
+{
+   "admin": {
+      "username": "admin",
+      "password": "111"
+   },
+   "volunteers": [
+      {
+         "username": "volunteer1",
+         "password": "111",
+         "isActive": false,
+         "campID": null
+      },
+      {
+         "username": "volunteer2",
+         "password": "111",
+         "isActive": false,
+         "campID": null
+      },
+      {
+         "username": "volunteer3",
+         "password": "111",
+         "isActive": false,
+         "campID": null
+      },
+      {
+         "username": "volunteer4",
+         "password": "111",
+         "isActive": false
+      }
+   ],
+   "count": 4
+}
