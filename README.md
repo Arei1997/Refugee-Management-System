@@ -1,2 +1,7 @@
-# COMP0066_Project
-Introductory Programming Project
+# UCL Projecte  
+Refugee management system  
+
+
+
+---------------------------------
+    
